@@ -19,4 +19,4 @@ Nếu muốn chia sẻ cho bạn bè hoặc cộng đồng, có thể để **pu
 
 ---
 
-✨ Hãy cùng nhau xây dựng dự án Smart Home thật chuyên nghiệp và hữu ích!
+✨ Tạo Project hay ho nào!
