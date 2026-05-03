@@ -8,7 +8,7 @@ Các em sẽ bỏ code vào đây để cùng phát triển dự án.
 Nếu muốn chia sẻ cho bạn bè hoặc cộng đồng, có thể để **public**.
 
 ## 📂 Tài nguyên liên quan
-- 📒 Link Notion để lưu dữ liệu: ![Notion homepage](https://detailed-safflower-b58.notion.site/SmartHome-Notion-Homepage-3553cde9be2b80ce8958ffbf889bcc07?source=copy_link)
+- 📒 Link Notion để lưu dữ liệu: [Notion homepage](https://detailed-safflower-b58.notion.site/SmartHome-Notion-Homepage-3553cde9be2b80ce8958ffbf889bcc07?source=copy_link)
 - 🌐 Website: **TBD**
 - 📋 Link Trello: **TBD**
 
