@@ -1,6 +1,6 @@
 # Smart Home SH
 
-![Logo](/image/sh-dark-logo.png)
+<img src="/image/sh-dark-logo.png" alt="Logo" style="width:200px;height:auto;">
 
 ## 👋 Giới thiệu
 Đây là GitHub chung của nhóm **Smart Home SH**.  
