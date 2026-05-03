@@ -1,4 +1,5 @@
 # Smart Home SH
+![Alt text](https://github.com/Smart-Home-SH/.github/profile/sh-dark-logo.png)
 
 ## 👋 Giới thiệu
 Đây là GitHub chung của nhóm **Smart Home SH**.  
